@@ -107,7 +107,7 @@ end
 ### Carthage
 在cartfile文件添加：
 ```
-github "pujiaxin33/JXSegmentedView"
+github "imotoboy/JXSegmentedView"
 ```
 然后执行`carthage update --platform iOS` 即可
 
